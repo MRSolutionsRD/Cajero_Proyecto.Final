@@ -1,0 +1,13 @@
+C:\Users\mriva\source\repos\Cajero_Proyecto.Final\Cajero_Proyecto.Final\bin\Debug\netcoreapp3.1\Cajero_Proyecto.Final.exe
+C:\Users\mriva\source\repos\Cajero_Proyecto.Final\Cajero_Proyecto.Final\bin\Debug\netcoreapp3.1\Cajero_Proyecto.Final.deps.json
+C:\Users\mriva\source\repos\Cajero_Proyecto.Final\Cajero_Proyecto.Final\bin\Debug\netcoreapp3.1\Cajero_Proyecto.Final.runtimeconfig.json
+C:\Users\mriva\source\repos\Cajero_Proyecto.Final\Cajero_Proyecto.Final\bin\Debug\netcoreapp3.1\Cajero_Proyecto.Final.runtimeconfig.dev.json
+C:\Users\mriva\source\repos\Cajero_Proyecto.Final\Cajero_Proyecto.Final\bin\Debug\netcoreapp3.1\Cajero_Proyecto.Final.dll
+C:\Users\mriva\source\repos\Cajero_Proyecto.Final\Cajero_Proyecto.Final\bin\Debug\netcoreapp3.1\Cajero_Proyecto.Final.pdb
+C:\Users\mriva\source\repos\Cajero_Proyecto.Final\Cajero_Proyecto.Final\obj\Debug\netcoreapp3.1\Cajero_Proyecto.Final.csprojAssemblyReference.cache
+C:\Users\mriva\source\repos\Cajero_Proyecto.Final\Cajero_Proyecto.Final\obj\Debug\netcoreapp3.1\Cajero_Proyecto.Final.csproj.CoreCompileInputs.cache
+C:\Users\mriva\source\repos\Cajero_Proyecto.Final\Cajero_Proyecto.Final\obj\Debug\netcoreapp3.1\Cajero_Proyecto.Final.AssemblyInfoInputs.cache
+C:\Users\mriva\source\repos\Cajero_Proyecto.Final\Cajero_Proyecto.Final\obj\Debug\netcoreapp3.1\Cajero_Proyecto.Final.AssemblyInfo.cs
+C:\Users\mriva\source\repos\Cajero_Proyecto.Final\Cajero_Proyecto.Final\obj\Debug\netcoreapp3.1\Cajero_Proyecto.Final.dll
+C:\Users\mriva\source\repos\Cajero_Proyecto.Final\Cajero_Proyecto.Final\obj\Debug\netcoreapp3.1\Cajero_Proyecto.Final.pdb
+C:\Users\mriva\source\repos\Cajero_Proyecto.Final\Cajero_Proyecto.Final\obj\Debug\netcoreapp3.1\Cajero_Proyecto.Final.genruntimeconfig.cache
